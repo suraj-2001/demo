@@ -1,2 +1,2 @@
 # Shell
-Schell Scripts for demosssss
+Schell Scripts for demosssss and practice.
